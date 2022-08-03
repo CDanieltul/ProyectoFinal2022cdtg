@@ -1,0 +1,31 @@
+.nav-enlacee{
+    display: inline-block;
+    background: green;
+    color: #fff;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+.nav-enlace:hover{
+    background: red;
+}
+nav{
+    background: rebeccapurple;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.nav-boton{
+    background: blue;
+    color: #fff;
+    padding: 10px 0;
+}
+
+@Media (max-width: 600px){
+  nav{
+    background: black;
+    flex-direction: colum;
+  }  
+  .nav-enlace{
+    margin: 10px 0;
+  }
+}
