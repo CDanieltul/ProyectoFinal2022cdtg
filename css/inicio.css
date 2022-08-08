@@ -1,6 +1,6 @@
 .nav-enlacee{
     display: inline-block;
-    background: green;
+    background: rgb(255, 166, 0);
     color: #fff;
     padding: 10px 30px;
     text-decoration: none;
@@ -9,20 +9,20 @@
     background: red;
 }
 nav{
-    background: rebeccapurple;
+    background:rgb(236, 217, 255);
     padding: 10px;
     display: flex;
     justify-content: space-around;
 }
 .nav-boton{
-    background: blue;
+    background: rgb(255, 0, 0);
     color: #fff;
     padding: 10px 0;
 }
 
 @Media (max-width: 600px){
   nav{
-    background: black;
+    background: rgb(0, 0, 0);
     flex-direction: colum;
   }  
   .nav-enlace{
