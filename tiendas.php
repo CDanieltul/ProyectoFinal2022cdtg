@@ -17,8 +17,16 @@
     <td bgcolor="#120136" style="color:#ffffff" align="center"><a href="servicios.php" class="nav-enlace">Servicios</a></td>
   </tr>
 </table>
-    <h1>Nuestras Tiendas</h1>
-    <img heigth="300px" width="300px" src="img/Toyota Carretera a El Salvador.jpg">
+    <h1 align="right">Nuestras Tiendas</h1>
+    <h1 align="right">Nuestras Tiendas</h1>
+    <h1 align="right">Nuestras Tiendas</h1>
+    <h1 align="right">Nuestras Tiendas</h1>
+    <h1 align="right">Cofiño Stahl km22.5 Carretera a El Salvador</h1>
+    <table border="1" height="300px" width="20%" align="static">
+  <tr>
+  <td><img width="300px" src="img/Toyota Carretera a El Salvador.jpg"></td>
+  </tr>
+  </table>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
 </body>
