@@ -17,10 +17,8 @@
     <td bgcolor="#120136" style="color:#ffffff" align="center"><a href="servicios.php" class="nav-enlace">Servicios</a></td>
   </tr>
 </table>
-    <h1 align="right">Nuestras Tiendas</h1>
-    <h1 align="right">Nuestras Tiendas</h1>
-    <h1 align="right">Nuestras Tiendas</h1>
-    <h1 align="right">Nuestras Tiendas</h1>
+    <h1 align="right">Toyota Roosevelt</h1>
+    <h1 align="right">Cofiño Stahl Zona 5</h1>
     <h1 align="right">Cofiño Stahl km22.5 Carretera a El Salvador</h1>
     <table border="1" height="300px" width="20%" align="static">
   <tr>
