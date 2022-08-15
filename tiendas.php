@@ -17,12 +17,9 @@
     <td bgcolor="#120136" style="color:#ffffff" align="center"><a href="servicios.php" class="nav-enlace">Servicios</a></td>
   </tr>
 </table>
-    <h1 align="right">Toyota Roosevelt</h1>
-    <h1 align="right">Cofiño Stahl Zona 5</h1>
-    <h1 align="right">Cofiño Stahl km22.5 Carretera a El Salvador</h1>
-    <table border="1" height="300px" width="20%" align="static">
+<table border="1" height="300px" width="100%" align="static">
   <tr>
-  <td><img width="300px" src="img/Toyota Carretera a El Salvador.jpg"></td>
+  <td><img width="300px" src="img/Toyota Carretera a El Salvador.jpg"><td align="left">Cofiño Stahl Carretera a El Salvador</td></td>
   </tr>
   </table>
   <table border="1" width="100%" align="center">

@@ -14,8 +14,34 @@
     <td bgcolor="#120136" style="color:#ffffff" align="center"><a href="tiendas.php" class="nav-enlace">Tiendas</a></td>
     <td bgcolor="#120136" style="color:#ffffff" align="center"><a href="inicio.php" class="nav-enlace">Inicio</a></td>
     <td bgcolor="#120136" style="color:#ffffff" align="center"><a href="servicios.php" class="nav-enlace">Servicios</a></td>
+    <td bgcolor="#120136" style="color:#ffffff" align="center"><a href="mensajes.php" class="nav-enlace">Ver Mensajes</a></td>
   </tr>
-</table> 
+</table>
+<h1>Contactenos</h1>
+<table border="1" width="100%" align="center">
+<tr>
+  <td><div class="form-group text-center pt-3">
+                        <h1 class="text-light">INICIAR SESIÓN</h1>
+                    </div>
+                    <h1 align="left">Nombres</h1>
+                    <div class="form-group mx-sm-4 pt-3">
+                        <input type="text" class="form-control" placeholder="Ingrese su Usuario">
+                    </div>
+                    <h1 align="left">Telefono/Celular</h1>
+                    <div class="form-group mx-sm-4 pt-3">
+                        <input type="text" class="form-control" placeholder="Ingrese su Usuario">
+                    </div>
+                    <h1 align="left">Correo Electrónico</h1>
+                    <div class="form-group mx-sm-4 pb-3">
+                        <input type="text" class="form-control" placeholder="Ingrese su Contraseña">
+                    <h1 align="left">Mensaje</h1>
+                    <div class="form-group mx-sm-4 pb-3">
+                        <input type="text" class="form-control" placeholder="Ingrese su Contraseña">
+                    </div>
+                    <div class="form-group mx-sm-4 pb-2">
+                    <input align="center" type="submit" class="btn btn-block ingresar" value="INGRESAR"></td>
+</tr>
+</table>
 <table border="1" width="100%" align="center">
   <tr>
     <td bgcolor="#120136" style="color:#ffffff" align="left">PBX: 2412-5454-Dirección: Avenida Las Americas 34-23 Zona 14</td>
