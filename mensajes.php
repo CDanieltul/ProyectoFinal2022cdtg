@@ -21,26 +21,11 @@
     <table border="1" width="100%" align="center">
         <tr>
             <td>Nombres</td>
-            <td>Nombres</td>
-            <td>Nombres</td>
-            <td>Nombres</td>
+            <td>Telefonos</td>
+            <td>Correo Electronico</td>
+            <td>Mensaje</td>
         </tr>
 </table>
-<table border="1" width="100%" align="center">
-        <tr>
-            <td>Nombres</td>
-            <td>Nombres</td>
-            <td>Nombres</td>
-            <td>Nombres</td>
-        </tr>
-</table>
-<table border="1" width="100%" align="center">
-        <tr>
-            <td>Nombres</td>
-            <td>Nombres</td>
-            <td>Nombres</td>
-            <td>Nombres</td>
-        </tr>
 </table>
 </body>
 </html>
