@@ -10,18 +10,52 @@
 <FONT SIZE=10 COLOR="red">T</FONT><FONT SIZE=8>oyota GT86 </FONT><br>
 <FONT SIZE=6 COLOR="red">E</FONT><FONT SIZE=4>l Toyota GT86 es un coche deportivo de tamaño compacto, fabricado en colaboración con Subaru desde 2012. Actualmente se comercializa la primera generación, presentada en 2012 y actualizada en 2017 a través de un rediseño exterior y ligeros cambios en su puesta a punto. Desde 2021, se comercializa como Toyota GR86.El Toyota GT86 se caracteriza por ser un coche de marcado carácter deportivo, pensado para aquellos que buscan un coche muy divertido de conducir y con una filosofía más bien clásica de cómo debe ser un coche deportivo puro. Se fabrica en la planta de Gunam, en Japón, por Subaru ya que este coche fue desarrollado como parte de un acuerdo entre Toyota y Subaru para poner en el mercado dos coches deportivos a partir de una misma base: Toyota GT86 y Subaru BRZ. </FONT><br><br>
 <FONT SIZE=6 COLOR="red">D</FONT><FONT SIZE=4>ada su filosofía, el Toyota GT86 no cuenta con rivales directos más allá del Subaru BRZ con el que comparte el grueso de sus componentes, aún así su posiconamiento y precio en el mercado le permiten competir con rivales como el Audi TT, el Mazda MX-5 o el Nissan 370Z. </FONT><br><br><br><br>
-<img src="img/Toyota GT86 Rojo.jpg"><br><br>
-<FONT SIZE=10 COLOR="red">D</FONT><FONT SIZE=8>iseño exterior del Toyota GT86 </FONT><br><br>
-<FONT SIZE=6 COLOR="red">E</FONT><FONT SIZE=4>l Toyota GT86 cuenta con un diseño exterior muy deportivo, de trazos generales muy similares al Subaru BRZ dado el nexo que existe entre ambos automóviles. Su estética es la de un coupé clásico con un morro alargado y una habitáculo retrasado para permitir una mejor ubicación del grupo motopropulsor. Esta disposición mecánica condiciona el diseño exterior y la disponibilidad de espacio interior pero a cambio permite alcanzar un balance de pesos de 53/47. La estética es claramente deportiva, agresiva en frontal y trasera con unas ópticas protagonistas y elementos aerodinámicos llamativos como la gran boca de refrigeración frontal, las salidas de aire sobre las aletas delanteras o el alerón posterior fijo. </FONT><br><br>
-<FONT SIZE=6 COLOR="red">E</FONT><FONT SIZE=4>l Toyota GT 86 tiene una longitud de 4.240 mm, una anchura de 1.775 mm y una altura de 1.285 mm. Su maletero es de 243 litros y su peso en vacío es de 1.239 kg. Su depósito de combustible tiene una capacidad de 50 litros. </FONT><br><br>
-<img src="img/Motor GT86.jpg"><br><br>
-<FONT SIZE=10 COLOR="red">M</FONT><FONT SIZE=8>otor del Toyota GT86 </FONT><br><br>
-<FONT SIZE=6 COLOR="red">L</FONT><FONT SIZE=4>a mecánica del Toyota GT 86 está formada por un motor bóxer atmosférico de 4 cilindros y 2 litros desarrollado conjuntamente por Subaru, el bloque, y Toyota, el sistema de inyección. Este motor desarrolla 200 caballos de potencia máxima, con un par de 205 Nm. Es tracción trasera y está asociado a una transmisión manual de 6 relaciones con la que consigue marcar una velocidad máxima de 226 km/h, con una aceleración en el 0 a 100 km/h de 7.6 segundos. También se ofrece con una transmisión automática por convertidor de par de 6 relaciones, aunque con ella se pierde gran parte del atractivo dinámico de este modelo en pos de ganar en confort. La velocidad máxima del modelo automático es de 210 km/h mientras que la aceleración en el 0 a 100 km/h es de 8.2 segundos. </FONT><br><br>
-<FONT SIZE=6 COLOR="red">E</FONT><FONT SIZE=4>l Toyota GT86 es un coche deportivo de tamaño compacto, fabricado en colaboración con Subaru desde 2012. Actualmente se comercializa la primera generación, presentada en 2012 y actualizada en 2017 a través de un rediseño exterior y ligeros cambios en su puesta a punto. Desde 2021, se comercializa como Toyota GR86.El Toyota GT86 se caracteriza por ser un coche de marcado carácter deportivo, pensado para aquellos que buscan un coche muy divertido de conducir y con una filosofía más bien clásica de cómo debe ser un coche deportivo puro. Se fabrica en la planta de Gunam, en Japón, por Subaru ya que este coche fue desarrollado como parte de un acuerdo entre Toyota y Subaru para poner en el mercado dos coches deportivos a partir de una misma base: Toyota GT86 y Subaru BRZ. </FONT><br><br>
-<FONT SIZE=6 COLOR="red">E</FONT><FONT SIZE=4>l Toyota GT86 es un coche deportivo de tamaño compacto, fabricado en colaboración con Subaru desde 2012. Actualmente se comercializa la primera generación, presentada en 2012 y actualizada en 2017 a través de un rediseño exterior y ligeros cambios en su puesta a punto. Desde 2021, se comercializa como Toyota GR86.El Toyota GT86 se caracteriza por ser un coche de marcado carácter deportivo, pensado para aquellos que buscan un coche muy divertido de conducir y con una filosofía más bien clásica de cómo debe ser un coche deportivo puro. Se fabrica en la planta de Gunam, en Japón, por Subaru ya que este coche fue desarrollado como parte de un acuerdo entre Toyota y Subaru para poner en el mercado dos coches deportivos a partir de una misma base: Toyota GT86 y Subaru BRZ. </FONT><br><br>
-<FONT SIZE=6 COLOR="red">E</FONT><FONT SIZE=4>l Toyota GT86 es un coche deportivo de tamaño compacto, fabricado en colaboración con Subaru desde 2012. Actualmente se comercializa la primera generación, presentada en 2012 y actualizada en 2017 a través de un rediseño exterior y ligeros cambios en su puesta a punto. Desde 2021, se comercializa como Toyota GR86.El Toyota GT86 se caracteriza por ser un coche de marcado carácter deportivo, pensado para aquellos que buscan un coche muy divertido de conducir y con una filosofía más bien clásica de cómo debe ser un coche deportivo puro. Se fabrica en la planta de Gunam, en Japón, por Subaru ya que este coche fue desarrollado como parte de un acuerdo entre Toyota y Subaru para poner en el mercado dos coches deportivos a partir de una misma base: Toyota GT86 y Subaru BRZ. </FONT><br><br>
-<FONT SIZE=6 COLOR="red">E</FONT><FONT SIZE=4>l Toyota GT86 es un coche deportivo de tamaño compacto, fabricado en colaboración con Subaru desde 2012. Actualmente se comercializa la primera generación, presentada en 2012 y actualizada en 2017 a través de un rediseño exterior y ligeros cambios en su puesta a punto. Desde 2021, se comercializa como Toyota GR86.El Toyota GT86 se caracteriza por ser un coche de marcado carácter deportivo, pensado para aquellos que buscan un coche muy divertido de conducir y con una filosofía más bien clásica de cómo debe ser un coche deportivo puro. Se fabrica en la planta de Gunam, en Japón, por Subaru ya que este coche fue desarrollado como parte de un acuerdo entre Toyota y Subaru para poner en el mercado dos coches deportivos a partir de una misma base: Toyota GT86 y Subaru BRZ. </FONT><br><br>
-<FONT SIZE=6 COLOR="red">E</FONT><FONT SIZE=4>l Toyota GT86 es un coche deportivo de tamaño compacto, fabricado en colaboración con Subaru desde 2012. Actualmente se comercializa la primera generación, presentada en 2012 y actualizada en 2017 a través de un rediseño exterior y ligeros cambios en su puesta a punto. Desde 2021, se comercializa como Toyota GR86.El Toyota GT86 se caracteriza por ser un coche de marcado carácter deportivo, pensado para aquellos que buscan un coche muy divertido de conducir y con una filosofía más bien clásica de cómo debe ser un coche deportivo puro. Se fabrica en la planta de Gunam, en Japón, por Subaru ya que este coche fue desarrollado como parte de un acuerdo entre Toyota y Subaru para poner en el mercado dos coches deportivos a partir de una misma base: Toyota GT86 y Subaru BRZ. </FONT><br><br>
+<table align="center" border="1px">
+<tr>
+<td><img width="500px" height="500px" align="center" src="img/Toyota GT86 Rojo.jpg"></td><br><br>
+</tr>
+  </thead>
+  </table>
+<table border="1px">
+  <thead bgcolor="#ff6f00">
+<tr>
+<td align="center"> CAROCERIA </td>
+<td align="center"> PUERTAS  </td>
+<td align="center"> PLAZAS </td>
+<td align="center"> MALETERO </td>
+</tr>
+  </thead>
+   
+  <tfoot bgcolor="#E8FF00">
+    <tr>
+<td align="center"> Coupé  </td>
+<td align="center"> 2 </td>
+<td align="center"> 4 </td>
+<td align="center"> 243 I </td>
+</tr>
+  </tfoot>
 
+</table><br>
+
+<table border="1px">
+  <thead bgcolor="#FF0083">
+<tr>
+<td align="center"> POTENCIA </td>
+<td align="center"> CONSUMO  </td>
+<td align="center"> PRECIO </td>
+<td align="center"> VALORACION </td>
+</tr>
+  </thead>
+   
+  <tfoot bgcolor="#00FFFB">
+    <tr>
+<td align="center"> 200CV  </td>
+<td align="center"> 8-8.6 l/100KM </td>
+<td align="center"> 34,490€ </td>
+<td align="center"> 79.8% Criticas Positivas</td>
+</tr>
+  </tfoot>
+
+</table>
 </body>
 </html>
